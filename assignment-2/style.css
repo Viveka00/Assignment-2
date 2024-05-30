@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 70px ;
+}
+/* #two{
+    background-color: #f08804;
+    height: 200px;
+    width: 200px;
+
+}
+.one{
+    background-color: #f08804;
+    height: 200px;
+    width: 200px;
+   
+} */
+.see{
+    background-color: white;
+    color: rgb(6, 6, 6);
+    height: 300px;
+    width: 500px;
+    /* display: inline-block; */
+    margin-top: 30px;
+    text-align: center;
+    margin-left: 150px;
+    
+    
+}
+#drop{
+    text-align: center;
+    
+}
+#two{
+    height: 200px;
+    width: 500px;
+    
+
+}
+
+
+/* #one{
+    align-items: center;
+    margin: 0px;
+    margin-left: 40px;
+    margin-top: 50px;
+    height: 50px;
+    width: 50px;
+}
+#two{
+    
+     margin-left: 300px;
+     margin-right: 50px;
+     margin-top: 0px;
+     margin-bottom: 100px;
+     
+    
+} */
+img{
+    height: 300px;
+    width: 500px;
+    
+}
+.roman{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    background-color: gray;
+    margin-left: 60px;
+    
+}
+.roman img{
+    height: 200px;
+    width: 200px;
+}
+footer{
+    /* color: #0f1111; */
+    color: #0f1111;
+    background-color: gray;
+    text-align: center;
+    height: 300px;
+    width: auto;
+    background-image: url("amazon.webp");
+}
